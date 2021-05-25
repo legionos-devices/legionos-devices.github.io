@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gapps on LegionOS Blog</title>
+    <link>https://blog.legionos.org/tags/gapps/</link>
+    <description>Recent content in Gapps on LegionOS Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    
+	<atom:link href="https://blog.legionos.org/tags/gapps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Legion Gapps</title>
+      <link>https://blog.legionos.org/content/post/2021-04-08-gapps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.legionos.org/content/post/2021-04-08-gapps/</guid>
+      <description>Hello Brothers,
+Hope everyone is enjoying their weekend.
+Here we are coming back again to bother you with a new release of Legion Gapps
+So, let’s see what all we got fixed &amp;amp; What’s new -:
+*Package Included* Basic Gms services: AndroidMigratePrebuilt CarrierSetup ConfigUpdater DigitalWellbeing GmsCoreSetupPrebuilt GoogleServicesFramework GoogleRestore GoogleBackupTransport GooglePackageInstaller GoogleExtServices GoogleExtShared GoogleCalendarSyncAdapter GoogleContactsSyncAdapter Google speech MarkupGoogle Phonesky (PlayStore) PrebuiltGmsCore SetupWizard SoundPickerGoogle Velvet (GoogleSearch) Credits
+ Gapps are made with mixed sources from Pixel, FlameGApps Team and OpenGapps Team.</description>
+    </item>
+    
+  </channel>
+</rss>
