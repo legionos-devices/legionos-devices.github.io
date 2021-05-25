@@ -3,7 +3,7 @@ const hidden = "hidden";
 const active = "active";
 
 const doc = document.documentElement;
-const parentURL = "https://legionos-devices.github.io/";
+const parentURL = "https://blog.legionos.org/";
 const staticman = Object.create(null);
 const translations = {
   success: {
@@ -252,7 +252,7 @@ function fileClosure(){
   headingNodes.forEach(function(node){
     link = createEl('a');
     icon = createEl('img');
-    icon.src = 'https://legionos-devices.github.io/images/icons/link.svg';
+    icon.src = 'https://blog.legionos.org/images/icons/link.svg';
     link.className = 'link';
     link.appendChild(icon);
     id = node.getAttribute('id');
