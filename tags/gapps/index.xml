@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gapps on LegionOS Blog</title>
-    <link>https://blog.legionos.org/tags/gapps/</link>
+    <link>https://legionos-devices.github.io/tags/gapps/</link>
     <description>Recent content in Gapps on LegionOS Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     
-	<atom:link href="https://blog.legionos.org/tags/gapps/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://legionos-devices.github.io/tags/gapps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Legion Gapps</title>
-      <link>https://blog.legionos.org/content/post/2021-04-08-gapps/</link>
+      <link>https://legionos-devices.github.io/content/post/2021-04-08-gapps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.legionos.org/content/post/2021-04-08-gapps/</guid>
+      <guid>https://legionos-devices.github.io/content/post/2021-04-08-gapps/</guid>
       <description>Hello Brothers,
 Hope everyone is enjoying their weekend.
 Here we are coming back again to bother you with a new release of Legion Gapps
