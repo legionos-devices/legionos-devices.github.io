@@ -1,81 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://legionos-devices.github.io/tags/april-patch/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/post/2021-03-30-flags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/post/2021-03-30-codeofconduct/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/post/2021-03-29-devicerequirements/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/tags/gapps/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/post/2021-03-30-kernelguidelines/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/post/2021-04-08-gapps/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/post/2021-03-21-themarchpatch/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/post/2021-04-08-amazingapril/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/post/2021-05-19-medicalmay/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/post/2021-03-29-maintainer/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/tags/maintaining-officially/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/tags/march-patch/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/tags/may-patch/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/content/post/2021-03-30-prs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://legionos-devices.github.io/tags/</loc>
   </url>
-  
 </urlset>

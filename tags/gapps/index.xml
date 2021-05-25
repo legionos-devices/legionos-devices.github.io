@@ -5,11 +5,7 @@
     <link>https://legionos-devices.github.io/tags/gapps/</link>
     <description>Recent content in Gapps on LegionOS Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    
-	<atom:link href="https://legionos-devices.github.io/tags/gapps/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://legionos-devices.github.io/tags/gapps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Legion Gapps</title>
       <link>https://legionos-devices.github.io/content/post/2021-04-08-gapps/</link>
