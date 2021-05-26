@@ -7,6 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://blog.legionos.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>(3.7) LegionOS Changelogs</title>
+      <link>https://blog.legionos.org/content/new/themarchpatch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.legionos.org/content/new/themarchpatch/</guid>
+      <description>Hello Brothers,
+Hope everyone is enjoying their weekend.
+Here we are coming back again to bother you with a new release of Legion v3.7
+So, let’s see what all we got fixed &amp;amp; What’s new -:
+* Updated New wallpapers in the Lpapers app * Update to march security patch * New updater app UI * Imply force redfin(Pixel 5) fingerprint * Add qs tile styles customization * Add qs header customization * Introduce Extreme battery saver * Enable IORap by default * Downscale high-res-tasks * Update prebuilt apks * Updated gapps to Latest March * Fixed a case where bubble chats were crashing * Fixed a case where Data usage wasnt visible * Moved Data usage to qs * Add proximity check on wake * Enable some lock screen shortcuts by default * Some Dependency updates * Minor fixes and updates Many Other Device Side Changes.</description>
+    </item>
+    
+    <item>
+      <title>(3.8) LegionOS Changelogs</title>
+      <link>https://blog.legionos.org/content/new/amazingapril/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.legionos.org/content/new/amazingapril/</guid>
+      <description>Hello Brothers,
+Hope everyone is enjoying their weekend.
+Here we are coming back again to bother you with a new release of Legion v3.8
+So, let’s see what all we got fixed &amp;amp; What’s new -:
+* Updated Pixel Fingerprint * Update to April security patch * Updated Pixel props * Enable extra IORap related stuffs * Make face unlock official only * Add qs header customization * Introduce Extreme battery saver * Enable IORap by default * Fix backuptool relates issues * Fixed cases where OTA wasnt working well * Enable and cleanup some Zygote related stuffs * Add app lock * Configure face unlock for app lock * Disabled writing of some unwanted logs * Add some translations * Disable developer options by default * Set default animation values to 0.</description>
+    </item>
+    
+    <item>
+      <title>(3.9) LegionOS Changelogs</title>
+      <link>https://blog.legionos.org/content/new/medicalmay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.legionos.org/content/new/medicalmay/</guid>
+      <description>Hello Brothers,
+Hope everyone is safe in their homes in this lockdown.
+Here we are coming back again to bother you with a new release of Legion v3.9
+So, let’s see what all we got fixed &amp;amp; What’s new -:
+* Added New Default Wallpaper * Update to May security patch * New Legion Settings UI * Imply force redfin(Pixel 5) fingerprint * Added Brightness bar Style * Added new Volume panels (from miui/Android8/Tiles/compact etc) * Updated Some prebuilt apks * Enable IORap by default * Cleanup and rebuild legion setting with new ui and animation (You may face some glitches please bear with us we will be done soon with it) * Fixed some permission problmes * Moved Date/Day to qs header * Moved Battery to qs header * Spoofed User build for all build even though it shows userdebug * Added Lock Immediately option to app lock * Added option to set/lock Refresh rate (Only for supported devices) * Changed to hashmap from arraymap (Increases performance) * Fix some Face unlock and App lock logics * Updated Pixel Props to May * Removed some Line dividers which make the UI look ehh * Updated some Long screenshot related dependencies * Made the system wet well with magisk * Added share button in launcer menu * Added new icon pack implementation Many Other Device Side Changes.</description>
+    </item>
+    
+    <item>
       <title>Build Flags</title>
       <link>https://blog.legionos.org/content/post/2021-03-30-flags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -52,56 +91,17 @@ Exceptions SHOULD be made by contacting the administration team.
     </item>
     
     <item>
-      <title>Legion Gapps</title>
-      <link>https://blog.legionos.org/content/post/2021-04-08-gapps/</link>
+      <title>LegionOS Gapps.</title>
+      <link>https://blog.legionos.org/content/new/legionos-gapps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.legionos.org/content/post/2021-04-08-gapps/</guid>
+      <guid>https://blog.legionos.org/content/new/legionos-gapps/</guid>
       <description>Hello Brothers,
 Hope everyone is enjoying their weekend.
 Here we are coming back again to bother you with a new release of Legion Gapps
 So, let’s see what all we got fixed &amp;amp; What’s new -:
 *Package Included* Basic Gms services: AndroidMigratePrebuilt CarrierSetup ConfigUpdater DigitalWellbeing GmsCoreSetupPrebuilt GoogleServicesFramework GoogleRestore GoogleBackupTransport GooglePackageInstaller GoogleExtServices GoogleExtShared GoogleCalendarSyncAdapter GoogleContactsSyncAdapter Google speech MarkupGoogle Phonesky (PlayStore) PrebuiltGmsCore SetupWizard SoundPickerGoogle Velvet (GoogleSearch) Credits
  Gapps are made with mixed sources from Pixel, FlameGApps Team and OpenGapps Team.</description>
-    </item>
-    
-    <item>
-      <title>LegionOS Version - 3.7</title>
-      <link>https://blog.legionos.org/content/post/2021-03-21-themarchpatch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.legionos.org/content/post/2021-03-21-themarchpatch/</guid>
-      <description>Hello Brothers,
-Hope everyone is enjoying their weekend.
-Here we are coming back again to bother you with a new release of Legion v3.7
-So, let’s see what all we got fixed &amp;amp; What’s new -:
-* Updated New wallpapers in the Lpapers app * Update to march security patch * New updater app UI * Imply force redfin(Pixel 5) fingerprint * Add qs tile styles customization * Add qs header customization * Introduce Extreme battery saver * Enable IORap by default * Downscale high-res-tasks * Update prebuilt apks * Updated gapps to Latest March * Fixed a case where bubble chats were crashing * Fixed a case where Data usage wasnt visible * Moved Data usage to qs * Add proximity check on wake * Enable some lock screen shortcuts by default * Some Dependency updates * Minor fixes and updates Many Other Device Side Changes.</description>
-    </item>
-    
-    <item>
-      <title>LegionOS Version - 3.8</title>
-      <link>https://blog.legionos.org/content/post/2021-04-08-amazingapril/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.legionos.org/content/post/2021-04-08-amazingapril/</guid>
-      <description>Hello Brothers,
-Hope everyone is enjoying their weekend.
-Here we are coming back again to bother you with a new release of Legion v3.8
-So, let’s see what all we got fixed &amp;amp; What’s new -:
-* Updated Pixel Fingerprint * Update to April security patch * Updated Pixel props * Enable extra IORap related stuffs * Make face unlock official only * Add qs header customization * Introduce Extreme battery saver * Enable IORap by default * Fix backuptool relates issues * Fixed cases where OTA wasnt working well * Enable and cleanup some Zygote related stuffs * Add app lock * Configure face unlock for app lock * Disabled writing of some unwanted logs * Add some translations * Disable developer options by default * Set default animation values to 0.</description>
-    </item>
-    
-    <item>
-      <title>LegionOS Version - 3.9</title>
-      <link>https://blog.legionos.org/content/post/2021-05-19-medicalmay/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.legionos.org/content/post/2021-05-19-medicalmay/</guid>
-      <description>Hello Brothers,
-Hope everyone is safe in their homes in this lockdown.
-Here we are coming back again to bother you with a new release of Legion v3.9
-So, let’s see what all we got fixed &amp;amp; What’s new -:
-* Added New Default Wallpaper * Update to May security patch * New Legion Settings UI * Imply force redfin(Pixel 5) fingerprint * Added Brightness bar Style * Added new Volume panels (from miui/Android8/Tiles/compact etc) * Updated Some prebuilt apks * Enable IORap by default * Cleanup and rebuild legion setting with new ui and animation (You may face some glitches please bear with us we will be done soon with it) * Fixed some permission problmes * Moved Date/Day to qs header * Moved Battery to qs header * Spoofed User build for all build even though it shows userdebug * Added Lock Immediately option to app lock * Added option to set/lock Refresh rate (Only for supported devices) * Changed to hashmap from arraymap (Increases performance) * Fix some Face unlock and App lock logics * Updated Pixel Props to May * Removed some Line dividers which make the UI look ehh * Updated some Long screenshot related dependencies * Made the system wet well with magisk * Added share button in launcer menu * Added new icon pack implementation Many Other Device Side Changes.</description>
     </item>
     
     <item>
