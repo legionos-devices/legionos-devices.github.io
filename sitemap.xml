@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.legionos.org/content/new/justjune/</loc>
+  </url><url>
     <loc>https://blog.legionos.org/content/new/themarchpatch/</loc>
   </url><url>
     <loc>https://blog.legionos.org/content/new/amazingapril/</loc>
   </url><url>
     <loc>https://blog.legionos.org/content/new/medicalmay/</loc>
-  </url><url>
-    <loc>https://blog.legionos.org/tags/april-patch/</loc>
   </url><url>
     <loc>https://blog.legionos.org/content/post/2021-03-30-flags/</loc>
   </url><url>
@@ -32,11 +32,9 @@
   </url><url>
     <loc>https://blog.legionos.org/tags/maintaining-officially/</loc>
   </url><url>
-    <loc>https://blog.legionos.org/tags/march-patch/</loc>
-  </url><url>
-    <loc>https://blog.legionos.org/tags/may-patch/</loc>
-  </url><url>
     <loc>https://blog.legionos.org/content/post/2021-03-30-prs/</loc>
+  </url><url>
+    <loc>https://blog.legionos.org/tags/security-patch/</loc>
   </url><url>
     <loc>https://blog.legionos.org/tags/</loc>
   </url>

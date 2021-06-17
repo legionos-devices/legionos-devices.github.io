@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://blog.legionos.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>April Patch</title>
-      <link>https://blog.legionos.org/tags/april-patch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.legionos.org/tags/april-patch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gapps</title>
       <link>https://blog.legionos.org/tags/gapps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,20 +25,11 @@
     </item>
     
     <item>
-      <title>March Patch</title>
-      <link>https://blog.legionos.org/tags/march-patch/</link>
+      <title>Security Patch</title>
+      <link>https://blog.legionos.org/tags/security-patch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.legionos.org/tags/march-patch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>May Patch</title>
-      <link>https://blog.legionos.org/tags/may-patch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.legionos.org/tags/may-patch/</guid>
+      <guid>https://blog.legionos.org/tags/security-patch/</guid>
       <description></description>
     </item>
     
