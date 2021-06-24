@@ -2,20 +2,20 @@
 <html lang='en'><head>
   <title>Build Flags | LegionOS Blog</title>
   <meta charset='utf-8'>
-  <meta name="generator" content="Hugo 0.83.1" />
+  <meta name="generator" content="Hugo 0.84.0" />
   <meta name = 'viewport' content = 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'>
   <meta http-equiv = 'X-UA-Compatible' content = 'IE=edge'>
 <meta property = 'og:locale' content = 'en_US' />
 <meta property="og:type" content="article">
 <meta property = 'og:title' content = 'Build Flags' />
-<meta name="description" content="Some important flags to include in build:  To include GApps in your builds execute this command:  export WITH_GAPPS=true or add the flag WITH_GAPPS := true in …">
-<meta property = 'og:description' content = 'Some important flags to include in build:  To include GApps in your builds execute this command:  export WITH_GAPPS=true or add the flag WITH_GAPPS := true in …'>
+<meta name="description" content="Some important flags to include in build:  To Build OFFICIAL make sure you have made a pull request HERE and add this flag  • export LEGION_BUILD_TYPE=OFFICIAL …">
+<meta property = 'og:description' content = 'Some important flags to include in build:  To Build OFFICIAL make sure you have made a pull request HERE and add this flag  • export LEGION_BUILD_TYPE=OFFICIAL …'>
 <meta property = 'og:url' content = 'https://blog.legionos.org/content/post/2021-03-30-flags/' />
 <meta property = 'og:image' content = 'https://blog.legionos.org/images/legionlogo.png'/>
 <meta name = 'twitter:card' content = 'summary_large_image' />
 <meta name = 'twitter:creator' content = ''>
 <meta name = 'twitter:title' content = 'Build Flags' />
-<meta property = 'twitter:description'  content = 'Some important flags to include in build:  To include GApps in your builds execute this command:  export WITH_GAPPS=true or add the flag WITH_GAPPS := true in …'/>
+<meta property = 'twitter:description'  content = 'Some important flags to include in build:  To Build OFFICIAL make sure you have made a pull request HERE and add this flag  • export LEGION_BUILD_TYPE=OFFICIAL …'/>
 <meta name = 'twitter:image' content = 'https://blog.legionos.org/images/legionlogo.png' />
 <link rel='apple-touch-icon' sizes='180x180' href='https://blog.legionos.org/images/icons/apple-touch-icon.png'>
 <link rel='icon' type='image/png' sizes='32x32' href='https://blog.legionos.org/images/icons/favicon-32x32.png'>
@@ -51,28 +51,11 @@
 <div class = 'post'>
   <article class='post_content'><h1 id="some-important-flags-to-include-in-build">Some important flags to include in build:</h1>
 <ol>
-<li>To include GApps in your builds execute this command:</li>
-</ol>
-<p>export WITH_GAPPS=true
-or add the flag WITH_GAPPS := true in ur legion_<!-- raw HTML omitted -->.mk</p>
-<p>• By default only basic packages are gonna be include with core gapps &amp; Playstore, Playservices,GoogleDialer,GoogleMessages,GoogleContacts,CalculatorGoogle,CalendarGoogle,GoogleClock,Wellbeing</p>
-<p>• For including stock gapps packages, execute
-export TARGET_INCLUDE_STOCK_GAPPS=true
-or add the flag TARGET_INCLUDE_STOCK_GAPPS :=  true in ur legion_<!-- raw HTML omitted -->.mk</p>
-<p>• Also in addition to this&hellip;
-If any apps you would like to get it removed in gapps, just add</p>
-<!-- raw HTML omitted -->
-<p>For exmaple:-</p>
-<p>REMOVE_GAPPS_PACKAGES +=<br>
-Chrome<br>
-CalculatorGoogle</p>
-<p>in ur legion_device.mk and so on for whichever apps you want to go away</p>
-<ol start="2">
 <li>To Build OFFICIAL make sure you have made a pull request <a href="https://github.com/Project-LegionOS/vendor_legion/blob/11/legion.devices">HERE</a> and add this flag</li>
 </ol>
 <p>• export LEGION_BUILD_TYPE=OFFICIAL
 or add the flag LEGION_BUILD_TYPE := OFFICIAL in ur legion_<!-- raw HTML omitted -->.mk</p>
-<ol start="3">
+<ol start="2">
 <li>To Add your name in our zip and in our about phone section and add this flag</li>
 </ol>
 <p>• export LEGION_MAINTAINER=your_name
